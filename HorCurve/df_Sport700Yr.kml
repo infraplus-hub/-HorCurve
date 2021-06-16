@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>df_Sport700Yr</name>
+  <Placemark>
+	<name>P1</name>
+      <Point><coordinates>98.9648409990802,18.8390942872645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PC</name>
+      <Point><coordinates>98.9649959728468,18.8420272302466</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PI</name>
+      <Point><coordinates>98.9654146167328,18.8417676392052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PT</name>
+      <Point><coordinates>98.9653146150482,18.8413015864021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PN</name>
+      <Point><coordinates>98.9637969548668,18.8427707028949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Curve</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <LineString><coordinates>98.9653146150482,18.8413015864021 98.9653277384988,18.8413934885384 98.9653279672814,18.841486235968 98.965315297347,18.841578195781 98.9652899517418,18.8416677489317 98.965252376682,18.8417533187437 98.9652032336987,18.8418333986692 98.9651433879922,18.8419065788134 98.9650738932,18.8419715707582 98.9649959728468,18.8420272302466</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>

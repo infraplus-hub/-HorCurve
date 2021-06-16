@@ -1,0 +1,42 @@
+======================================================================
+
+EstCircCurve: Estimating horizontal circular curve from specified
+              3 group of samplings representing alignments namely :
+           1) "Lead_In" linestring for straight line on entering curve
+           2) "Curve" linestring representing the circular curve 
+           3) "Lead_Out" linestring for straight line on exiting curve 
+      and  4) a kilometer post for linear referencing , if any.
+
+======================================================================
+Reading lead-in,curve, lead-out sampling point : D:\sourc_code\S21\HorCurve\Dist\Data\Sport700Yr.kml
+@RADIUS OF CURVE : 77.346 m. (+/-0.4 m.)
+Input 3pt Traverse : [(496295.97641408665, 2083024.1109998287), (496356.4650723163, 2083319.8945810557), (496186.06867201696, 2083430.9134985001)]
+Input Radius    : 77.346 meter.
+Circular Curve Data: 
+Deflection Angle: -68.47222 degree
+Length of Curve : 92.434 meter.
+Circle Center   : (496270.141,2083283.823)
+"PC" : (496345.919,2083268.326)
+"PI" : (496356.465,2083319.895)
+"PT" : (496312.364,2083348.628)
+===== Coordinates of Circular Curve =====
+C1,496345.919,2083268.326
+C2,496347.304,2083278.495
+C3,496347.330,2083288.758
+C4,496345.997,2083298.934
+C5,496343.329,2083308.844
+C6,496339.372,2083318.313
+C7,496334.196,2083327.175
+C8,496327.892,2083335.274
+C9,496320.572,2083342.467
+C10,496312.364,2083348.628
+Writing report REPORT & PLOT : D:\sourc_code\S21\HorCurve\Dist\Data\Sport700Yr_-->png|kml|txt
++---+------+------------+-----------+
+|   | Name | sampl_dist |  Sta_KM   |
++---+------+------------+-----------+
+| 1 |  P1  |   0.000    | 0+000.000 |
+| 2 |  PC  |  249.270   | 0+249.270 |
+| 3 |  PI  |  295.453   | 0+295.453 |
+| 4 |  PT  |  341.635   | 0+341.635 |
+| 5 |  PN  |  492.372   | 0+492.372 |
++---+------+------------+-----------+
